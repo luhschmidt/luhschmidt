@@ -1,6 +1,7 @@
 ### Hi 🙋‍♀️
 
 Estudando CSS/Html
+<br>
 Pronouns: she/her
 
 <div align="center">
